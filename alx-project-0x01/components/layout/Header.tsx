@@ -15,13 +15,7 @@ const Header: React.FC = () => {
             <li className="hover:underline">
 
 
- public/assets/images
-components/common/Button.tsx
-components/common/PostCard.tsx
-components/layout/Header.tsx
-components/layout/Footer.tsx
-pages/posts/index.tsx
-pages/users/index.tsx
+
 
 
   <Link href="/users">Users</Link>
